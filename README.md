@@ -1,26 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+ Bikeshare project is created 24.05.2020
+ README file is created 31.052020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project is to calculate statistical behavior in New York City, Chicago and Washington
 
 ### Files used
-Include the files used
+bikeshare_2.py is main python Files
+chicago.csv,  new_york_city.csv  and  washington.csv files includes raw data.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-### Reference
-Provide refenrences
-
-### add comment 1
-Add Comment 1
-
-### add comment 2
-Add Comment 2
-
-### add comment 3
-Add Comment 3
+https://www.motivateco.com/ for raw data .
